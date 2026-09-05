@@ -1,5 +1,5 @@
 # vantage-stock-databricks-pipeline
-Feature branch version: This project uses PySpark in Databricks.
+This project uses PySpark in Databricks for stock data.
 ## Pipeline Architecture
 
 Alpha Vantage API → Raw Layer → Transformation Layer
